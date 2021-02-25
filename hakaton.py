@@ -75,22 +75,34 @@ print(f'{a}-{b}-{c}-{d}')
 # Задание №5:
 # Какое слово нужно сложить 5 раз чтобы получить число 5?
 # Какое слово нужно умножить на 7 чтобы получить 7?
-a = ("w" + "h" + "i" + "l" + "e")
-t = int(len(a))
-print(t)
-
-b = ("a" * 7)
-c = int(len(b))
-print(c)
 
 
-a = ("a" * 5)
-t = int(len(a))
-print(t)
+print(str(1+1+1+1+1))
+a=1
+b=7
+print(str(a+a+a+a+a))
+print(str(b*a))
 
-b = ("a" * 7)
-c = int(len(b))
-print(c)
+
+
+
+
+# a = ("w" + "h" + "i" + "l" + "e")
+# t = int(len(a))
+# print(t)
+
+# b = ("a" * 7)
+# c = int(len(b))
+# print(c)
+
+
+# a = ("a" * 5)
+# t = int(len(a))
+# print(t)
+
+# b = ("a" * 7)
+# c = int(len(b))
+# print(c)
 
 
 
