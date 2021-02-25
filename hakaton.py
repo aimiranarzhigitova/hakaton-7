@@ -83,7 +83,13 @@ b=7
 print(str(a+a+a+a+a))
 print(str(b*a))
 
+str_a="1"
+b=int(str_a)+int(str_a)+int(str_a)+int(str_a)+int(str_a)
+print(b)
 
+str_c="1"
+d=int(str_c)*7
+print(d)
 
 
 
